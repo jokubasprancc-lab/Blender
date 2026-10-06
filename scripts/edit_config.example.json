@@ -1,0 +1,20 @@
+{
+  "frame_end": 360,
+  "collapse_frame": 350,
+  "camera": "Camera",
+  "camera_retime": [[1, 1], [250, 225], [275, 262], [400, 350]],
+  "camera_continuous": true,
+  "rings": ["Ring.001", "Ring.002", "Ring.003"],
+  "ring_path": "RingPath",
+  "keyboard": "Keyboard",
+  "ring_clearance": 0.02,
+  "lightning_materials": ["Lightning"],
+  "lightning_lights": [],
+  "lightning_ramp_start": 280,
+  "lightning_peak": 3.0,
+  "backlights": ["Backlight"],
+  "backlight_materials": ["KeyLegend"],
+  "flash_pattern": [[0, 4.0], [1, 0.4], [3, 5.0], [4, 0.6], [6, 3.0]],
+  "backlight_final": 2.5,
+  "cut_camera": true
+}
